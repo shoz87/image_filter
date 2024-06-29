@@ -19,8 +19,8 @@
 
 ### 下載並解壓
 
-1. 下載並解壓該應用程式。
-https://github.com/shoz87/image_filter/releases/tag/python
+1. 下載[[https://github.com/shoz87/image_filter/releases/tag/python]]並解壓該應用程式。
+[[https://github.com/shoz87/image_filter/releases/tag/python]]
 
 ### 安裝依賴庫
 
